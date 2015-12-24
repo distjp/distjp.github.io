@@ -3,9 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+# 活動内容
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+DISTは、Web制作に関するテーマを取り扱う勉強会です。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+デザイナー、エンジニア、ディレクターなどあらゆる立場の方に参加していただき、その知の共有、研鑽ならびに参加者同士の交流を目的とした勉強会を定期的に開催します。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+# コンセプト
+
+- 職種の垣根を越える
+- 特定の技術に依存しない
+- 今日から現場で使える
+
+# 名前の由来
+
+Design, Idea, Social, Technologyという、Web制作と密接に絡む4つの単語から頭文字で名前を付けていますが、特に深い意味はありません。
