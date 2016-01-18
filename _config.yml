@@ -8,3 +8,12 @@ github_username: distjp
 
 # Build settings
 markdown: kramdown
+
+# Filtering Content
+future: true
+
+# Collections
+collections:
+  number_series:
+    output: true
+    permalink: /number-series/:path/

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="post event">
+	<header class="post-header">
+		<h1 class="post-title">{{ page.title }}</h1>
+
+		{% assign curDate = site.time | date: '%s' %}
+		{% assign postStartDate = page.date | date: '%s' %}
+		{% if postStartDate >= curDate %}
+		<p>{{ page.date | date: "%Y年%m月%d日" }}</p>
+		{% else %}
+		<p class="event__status">このイベントは、{{ page.date | date: "%Y年%m月%d日" }}に終了しました。</p>
+		{% endif %}
+	</header>
+	<article class="post-content">
+		<p><img src="/images/individual/number-series/dist.{{ page.count }}.png" alt="page.title" class="event__image"></p>
+		{{ content }}
+	</article>
+</div>
