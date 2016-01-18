@@ -1,6 +1,5 @@
 # Site settings
 title: DIST
-email: dist@ceroan.jp
 description: "Web制作にまつわるあらゆることを、 みんなで集まって学んでいく新しい会"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dist.tokyo" # the base hostname & protocol for your site
