@@ -9,7 +9,7 @@ layout: default
 		{% assign postStartDate = item.date | date: '%s' %}
 		{% if postStartDate >= curDate %}
 			<li>
-				<span class="post-meta">{{ item.date | date: "%Y.%m.%-d" }}</span>
+				<span class="post-meta">{{ item.date | date: "%Y年%m月%-d日" }}</span>
 				<h2>
 					<a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
 				</h2>
