@@ -1,15 +1,36 @@
 ---
 layout: default
 ---
-        <div class="home">
-          <h1 class="page-heading">Posts</h1>
-          <ul class="post-list">
-          {% for post in site.posts %}<li>
-            <span class="post-meta">{{ post.date | date: "%Y.%m.%-d" }}</span>
-            <h2>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </h2>
-          </li>{% endfor %}
-        </ul>
-          <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>
-        </div>
+<div class="home">
+	{% assign curDate = site.time | date: '%s' %}
+	<h2>今後の予定</h2>
+	<ul class="post-list">
+		{% for item in site.number_series reversed %}
+		{% assign postStartDate = item.date | date: '%s' %}
+		{% if postStartDate >= curDate %}
+			<li>
+				<span class="post-meta">{{ item.date | date: "%Y年%m月%-d日" }}</span>
+				<h2>
+					<a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+				</h2>
+			</li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	<h2>終了した勉強会</h2>
+	<ul class="post-list">
+		{% for item in site.number_series reversed %}
+		{% assign postStartDate = item.date | date: '%s' %}
+		{% if postStartDate <= curDate %}
+		<li>
+			<span class="post-meta">{{ item.date | date: "%Y年%m月%-d日" }}</span>
+			<h2>
+				<a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+			</h2>
+		</li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	<!--<p class="rss-subscribe"><a href="{{ " /feed.xml " | prepend: site.baseurl }}">RSSフィード</a></p>-->
+</div>
+{% include sponsor.html %}
