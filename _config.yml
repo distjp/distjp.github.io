@@ -7,7 +7,9 @@ twitter_username: dist_jp
 github_username: distjp
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: [tables, autolink, strikethrough]
 
 # Filtering Content
 future: true
