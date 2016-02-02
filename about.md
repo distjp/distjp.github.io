@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: DISTとは
 permalink: /about/
 ---
 # 活動内容
