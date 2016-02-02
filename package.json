@@ -1,0 +1,17 @@
+{
+  "name": "distjp.github.io",
+  "version": "1.0.0",
+  "description": "DIST official website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/distjp/distjp.github.io.git"
+  },
+  "author": "DIST executive committee",
+  "license": "MIT",
+  "dependencies": {
+    "hint.css": "^2.0.0"
+  }
+}

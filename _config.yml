@@ -19,3 +19,5 @@ collections:
   number_series:
     output: true
     permalink: /number-series/:path/
+  staff:
+    output: false

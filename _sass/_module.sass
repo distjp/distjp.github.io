@@ -23,6 +23,75 @@ td
 		display: block
 		margin: 0 auto
 
+.staff
+	&__list
+		margin: 0 200px 0 0
+		padding: 0
+
+		&:after
+			content: ""
+			clear: both
+			display: block
+
+	&__list-item
+		position: relative
+		float: left
+		margin: 6px
+		list-style: none
+
+	&__icon
+		background: transparent none no-repeat center center
+		background-size: cover
+		width: 128px
+		height: 128px
+
+		&:hover
+			opacity: 0.4
+
+	&__info
+		position: absolute
+		top: 50%
+		left: 5%
+		width: 90%
+		transform: translate(0, -50%)
+		z-index: -1
+		text-align: center
+
+	&__name
+		display: block
+		font-size: 0.875rem
+
+	&__job
+		display: block
+		font-size: 0.6rem
+		line-height: 1.25
+
+	&__comment
+		position: relative
+		display: inline-block
+		padding: 0 15px
+		width: auto
+		min-width: 115px
+		height: 40px
+		color: #F6F6F6
+		line-height: 40px
+		text-align: center
+		background: #19283C
+		z-index: 0
+
+		&:after
+			content: ""
+			position: absolute
+			top: -10px
+			left: 50%
+			margin-left: -10px
+			display: block
+			width: 0px
+			height: 0px
+			border-style: solid
+			border-width: 0 10px 10px 10px
+			border-color: transparent transparent #19283C transparent
+
 .sponsor
 	margin-bottom: 2rem
 
@@ -64,3 +133,8 @@ td
 	a
 		color: white
 		text-decoration: none
+
+[data-hint]:after
+	min-width: 300px
+	max-width: 300px
+	white-space: normal
