@@ -1,9 +1,20 @@
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width initial-scale=1" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
-  <link rel="stylesheet" href="{{ " /css/main.css " | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width initial-scale=1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<meta name="description" content="{{ site.description }}">
+	<link rel="stylesheet" href="{{ " /css/main.css " | prepend: site.baseurl }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<meta property="fb:admins" content="{{ site.facebook.admins }}">
+	<meta property="og:site_name" content="{{ site.title }}">
+	<meta property="og:type" content="{{ site.ogp.type }}">
+	<meta property="og:url" content="{{ site.ogp.url }}">
+	<meta property="og:image" content="{{ site.ogp.image_url }}">
+	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:description" content="{{ site.description }}">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta name="twitter:description" content="{{ site.description }}">
+	<meta name="twitter:image:src" content="{{ site.ogp.image_url }}">
 </head>

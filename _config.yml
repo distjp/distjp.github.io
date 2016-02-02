@@ -3,8 +3,15 @@ title: DIST
 description: "Web制作にまつわるあらゆることを、 みんなで集まって学んでいく新しい会"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dist.tokyo" # the base hostname & protocol for your site
+ogp:
+  site_name: DIST
+  type: website
+  url: "http://dist.tokyo"
+  image_url: "http://dist.tokyo/images/ogp.png"
 twitter_username: dist_jp
 github_username: distjp
+facebook:
+  admins: 1297549252
 
 # Build settings
 markdown: redcarpet
