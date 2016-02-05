@@ -13,11 +13,6 @@ github_username: distjp
 facebook:
   admins: 1297549252
 
-# Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: [tables, autolink, strikethrough]
-
 # Filtering Content
 future: true
 
