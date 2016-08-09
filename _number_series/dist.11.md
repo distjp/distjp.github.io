@@ -1,7 +1,7 @@
 ---
 layout: number_series
 title:  "DIST.11 「プロトタイピング」"
-count: 11
+number: 11
 date: 2016-05-25
 subscription: http://dist.connpass.com/event/32101/
 ---

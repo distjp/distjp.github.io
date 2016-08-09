@@ -1,7 +1,7 @@
 ---
 layout: number_series
 title:  "DIST.5 「Way of Working」"
-count: 5
+number: 5
 date: 2015-02-27
 ---
 

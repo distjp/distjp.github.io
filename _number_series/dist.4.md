@@ -1,7 +1,7 @@
 ---
 layout: number_series
 title:  "DIST.4 「Life is Short」"
-count: 4
+number: 4
 date: 2014-08-22
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: number_series
 title:  "DIST.2 「Sass Again」"
-count: 2
+number: 2
 date: 2014-04-04
 ---
 

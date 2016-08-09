@@ -1,7 +1,7 @@
 ---
 layout: number_series
 title:  "DIST.10 「デザインとJavaScript」"
-count: 10
+number: 10
 date: 2016-02-03
 ---
 

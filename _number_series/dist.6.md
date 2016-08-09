@@ -1,7 +1,7 @@
 ---
 layout: number_series
 title:  "DIST.6 「ケーススタディから学ぶGit」"
-count: 6
+number: 6
 date: 2015-04-17
 ---
 

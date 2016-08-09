@@ -1,7 +1,7 @@
 ---
 layout: number_series
 title:  "DIST.9 「チームを成功に導くヒントとアイデア」"
-count: 9
+number: 9
 date: 2015-11-25
 ---
 

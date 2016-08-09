@@ -2,7 +2,7 @@
 layout: number_series
 title:  "DIST.1 「Sass」"
 date: 2014-02-14
-count: 1
+number: 1
 subscription_url: "http://dist.connpass.com/event/5630/"
 ---
 

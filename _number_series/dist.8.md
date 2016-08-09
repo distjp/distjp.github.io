@@ -1,7 +1,7 @@
 ---
 layout: number_series
 title:  "DIST.8 「Web制作者のための会計術」"
-count: 8
+number: 8
 date: 2015-08-05
 ---
 

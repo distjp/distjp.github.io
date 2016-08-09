@@ -1,7 +1,7 @@
 ---
 layout: number_series
 title:  "DIST.3 「Photoshop and me」"
-count: 3
+number: 3
 date: 2014-06-13
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: number_series
 title:  "DIST.12 「モダンWebデザインワークフロー」"
-count: 12
+number: 12
 date: 2016-09-16
 subscription: http://dist.connpass.com/event/37188/
 ---

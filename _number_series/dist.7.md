@@ -1,7 +1,7 @@
 ---
 layout: number_series
 title:  "DIST.7 「一歩差がつくWebデザインテクニック」"
-count: 7
+number: 7
 date: 2015-06-12
 ---
 
