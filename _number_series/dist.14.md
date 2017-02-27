@@ -10,6 +10,10 @@ subscription: https://dist.connpass.com/event/49113/
 
 | 更新日時   | 内容 |
 |:-----------|:-----|
+| 2/8 12:46 | LTの発表順を確定しました。 |
+| 2/1 11:20 | LT「Atomic DesignとVue」を追加しました。 |
+| 1/26 12:50 | LT「vue build」、「Toward Type Safety of Vuex」を追加しました。 |
+| 1/25 13:25 | LT「Vue.js で作るスクロール同期型コンテンツ」、「IllustratorからJavaScriptを使ってHTML、CSSに書き出すツールを作った話」を追加しました。 |
 | 1/24 13:15 | イベントページを公開しました。 |
 
 ## イベント概要
@@ -49,7 +53,36 @@ View（表示）に特化したJavaScriptフレームワークとして、Vue.js
 
 ### LT
 
-決定次第、追記します。
+#### **「IllustratorからJavaScriptを使ってHTML、CSSに書き出すツールを作った話」**
+
+**[株式会社シーティーイー](http://www.web-cte.co.jp/) 本業はDTP [大澤 一志](https://twitter.com/onebitious)**（OSAWA Kazushi）
+
+Adobe ExtendScript Toolkit
+CCを使用してIllustratorからHTML、CSSを書き出すツールを作りましたので、それについて話します。
+
+#### **「Vue.js で作るスクロール同期型コンテンツ」**
+
+**[株式会社まぼろし](https://maboroshi.biz/) フロントエンドエンジニア [木村 哲朗](https://twitter.com/haribote_nobody)**（KIMURA Tetsuro）
+
+Vue.js を用いて、スクロールに応じたインタラクションのあるコンテンツの作り方（自分流）を、サンプルコードを交えて紹介します。
+
+#### **「Atomic DesignとVue」**
+
+**[株式会社ワンパク](http://1pac.jp/) CTO [道家 陽介](https://twitter.com/doke)**（DOKE Yosuke）
+
+プロジェクト構成の設計とコンポーネントの切り分けでハマったことなどを話そうと思います。
+
+#### **「vue build」**
+
+**[株式会社CUUSOO SYSTEM](http://www.cuusoo.co.jp) CTO [川口 和也](https://twitter.com/kazu_pon)**（KAWAGUCHI Kazuya）
+
+Vue.js で面倒な開発環境をセットアップしてくれる vue-cli に build コマンドが最近追加されました。デモを交えながら、その build コマンドについて紹介します。
+
+#### **「Toward Type Safety of Vuex」**
+
+**[株式会社オロ](https://www.oro.com/ja/) フロントエンドエンジニア [片山 真也](https://twitter.com/ktsn)**（KATAYAMA Shinya）
+
+Vuex を型安全にするために苦しんだ話をします。
 
 ## 参加費
 
@@ -61,7 +94,7 @@ View（表示）に特化したJavaScriptフレームワークとして、Vue.js
 
 ## 会場
 
-[ICTCO](http://ictco.jp/)（イクトコ）  
+[ICTCO](http://ictco.jp/)（イクトコ）
 ※ビルの入口とは別に専用入口があります。[道順のご案内](http://ceroan.jp/ictco/map.jpg)をご参考ください。
 
 ## タイムテーブル
