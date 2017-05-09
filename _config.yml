@@ -13,6 +13,9 @@ github_username: distjp
 facebook:
   admins: 1297549252
 
+# Global Configuration
+exclude: [assets]
+
 # Filtering Content
 future: true
 
