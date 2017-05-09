@@ -14,6 +14,7 @@ facebook:
   admins: 1297549252
 
 # Global Configuration
+## 無視するディレクトリ、ファイル
 exclude: [assets]
 
 # Filtering Content
