@@ -11,7 +11,10 @@ layout: default
 		<p>{{ page.date | date: "%Y年%m月%d日" }}</p>
 		<p class="event__status">参加申し込みは、<a href="{{ page.subscription }}" target="_blank">connpassのイベントページ</a>で受付中です。</p>
 		{% else %}
-		<p class="event__status">このイベントは、{{ page.date | date: "%Y年%m月%d日" }}に終了しました。</p>
+		<p class="event__status">
+			このイベントは、{{ page.date | date: "%Y年%m月%d日" }}に終了しました。<br>
+			<a href="{{ page.subscription }}" target="_blank">connpassのイベントページ</a>
+		</p>
 		{% endif %}
 	</header>
 	<article class="post-content">
