@@ -15,7 +15,7 @@ facebook:
 
 # Global Configuration
 ## 無視するディレクトリ、ファイル
-exclude: [assets]
+exclude: [assets, node_modules]
 
 # Filtering Content
 future: true
