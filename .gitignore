@@ -1,5 +1,8 @@
 *.iml
 .idea
+.jekyll-metadata
 .sass-cache
 _site
 node_modules
+Gemfile
+Gemfile.lock
