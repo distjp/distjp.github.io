@@ -19,7 +19,7 @@ layout: default
 	</ul>
 	<h2>終了した勉強会</h2>
 	<ul class="post-list">
-		{% for item in site.number_series limit:10 reversed %}
+		{% for item in site.number_series reversed %}
 		{% assign postStartDate = item.date | date: '%s' %}
 		{% if postStartDate <= curDate %}
 		<li>
