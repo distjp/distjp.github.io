@@ -3,9 +3,10 @@ layout: default
 ---
 <div class="home">
 	{% assign curDate = site.time | date: '%s' %}
+	{% assign numberSeriesOffset = site.number_series.size | minus: 10 %}
 	<h2>今後の予定</h2>
 	<ul class="post-list">
-		{% for item in site.number_series reversed %}
+		{% for item in site.number_series %}
 		{% assign postStartDate = item.date | date: '%s' %}
 		{% if postStartDate >= curDate %}
 			<li>
@@ -19,7 +20,7 @@ layout: default
 	</ul>
 	<h2>終了した勉強会</h2>
 	<ul class="post-list">
-		{% for item in site.number_series reversed offset:site.number_series.size - 10 %}
+		{% for item in site.number_series reversed offset:numberSeriesOffset %}
 		{% assign postStartDate = item.date | date: '%s' %}
 		{% if postStartDate <= curDate %}
 			<li>
