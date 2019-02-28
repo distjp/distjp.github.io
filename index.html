@@ -19,15 +19,15 @@ layout: default
 	</ul>
 	<h2>終了した勉強会</h2>
 	<ul class="post-list">
-		{% for item in site.number_series limit:10 reversed %}
+		{% for item in site.number_series reversed offset:site.number_series.size - 10 %}
 		{% assign postStartDate = item.date | date: '%s' %}
 		{% if postStartDate <= curDate %}
-		<li>
-			<span class="post-meta">{{ item.date | date: "%Y年%m月%-d日" }}</span>
-			<h2>
-				<a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
-			</h2>
-		</li>
+			<li>
+				<span class="post-meta">{{ item.date | date: "%Y年%m月%-d日" }}</span>
+				<h2>
+					<a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+				</h2>
+			</li>
 		{% endif %}
 		{% endfor %}
 	</ul>
