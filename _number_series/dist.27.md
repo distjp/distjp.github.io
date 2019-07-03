@@ -1,9 +1,9 @@
 ---
 layout: number_series
-title:  "DIST.26 「Webサービスの個性を支えるデザイン」"
-number: 26
-date: 2019-04-26
-subscription: https://dist.connpass.com/event/123241/
+title:  "DIST.27 「ゲームから学ぶUI/UX Ⅱ」"
+number: 27
+date: 2019-08-07
+subscription: https://dist.connpass.com/event/136950/
 ---
 
 ## 概要
