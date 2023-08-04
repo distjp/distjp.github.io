@@ -2,21 +2,13 @@
 layout: number_series
 title:  "DIST.36 「ゲームから学ぶUI/UX Ⅴ」"
 number: 36
-date: 2022-8-5
-subscription: https://dist.connpass.com/event/252120/
+date: 2022-9-16
+subscription: https://dist.connpass.com/event/258348/
 ---
-
-## <span style="color: red;">開催中止のお知らせ</span>
-
-<p style="color: red;">昨日8/4、関係者家族に発熱があり、本日8/5朝クリニックにて抗原検査を受けたところ、新型コロナウイルス陽性と診断されました。大変残念ではありますが、参加者、スピーカー、スタッフの健康と安全を第一に考え、本イベントは中止とさせていただきます。楽しみにお待ちいただいていたみなさまには、このような結果となりお詫び申し上げます。</p>
-
-<p style="color: red;">事前決済済みのみなさまには、このあとPayPal手数料を含めて全額返金の措置を進める予定です。</p>
-
-<p style="color: red;">また別途スケジュールを調整し、同イベントを必ず再開催したいと考えておりますので、引き続きご支援いただければ幸いです。本件に関するお問い合わせは、イベントへのお問い合わせよりお問い合わせくださいませ。</p>
 
 ## 概要
 
-盛夏の東京に、DISTの「ゲームから学ぶUI/UX」が帰って来ます！
+残念ながら8/5に開催中止となった[DIST.36 「ゲームから学ぶUI/UX Ⅴ」](https://dist.connpass.com/event/252120/)のリベンジ開催！　一部内容をアップデートして、盛夏の東京に今度こそDISTの「ゲームから学ぶUI/UX」が帰って来ます！
 
 インターネットが普及して20年以上が経ち、様々な手法が確立されたWebデザインは一定の成熟期まで発展したといえるでしょう。さらなる進化に向かう現代では、UI/UXの重要性が声高に叫ばれています。では、よいUI/UXとそうでないUI/UXを分けるカギは、一体どんなものでしょうか？
 
@@ -31,13 +23,6 @@ subscription: https://dist.connpass.com/event/252120/
 [DIST.33 「ゲームから学ぶUI/UX Ⅲ」](https://dist.connpass.com/event/187877/)  
 [DIST.27 「ゲームから学ぶUI/UX Ⅱ」](https://dist.connpass.com/event/136950/)  
 [DIST.22 「ゲームから学ぶUI/UX」](https://dist.connpass.com/event/95086/)
-
-## ~~スピーカー募集！~~
-スピーカー募集は終了しました。
-
-~~セッション（10分）のスピーカーを希望される方を広く募集します。内容は「Web制作、クリエイティブの向上に生かせそうなゲームのUI/UX」にまつわることであれば何でもOKです。ただし、ご自身が制作に携わったゲームは宣伝と捉えられるため、避けるようお願いします。詳しくは[DIST.36 スピーカーについて](https://esa-pages.io/p/sharing/2767/posts/129/b53227c6f55dbb97362a.html)をご覧ください。~~
-
-~~希望者は、「スピーカー希望枠」からお申し込みください。内容を検討の上、折り返しご連絡を差し上げます。内容がテーマにそぐわないと主催者が判断した場合、お断りすることもありますので、あらかじめご了承ください。~~
 
 ## 対象
 
@@ -77,16 +62,15 @@ subscription: https://dist.connpass.com/event/252120/
 『[APEX LEGENDS](https://www.ea.com/ja-jp/games/apex-legends)』PlayStation、PC、他  
 『[Call of Duty](https://www.callofduty.com/ja/)』 PlayStation、PC、他
 
-### **スケボーゲームに学ぶ、フィジカルに直結するUX**
+### **「ACE COMBAT 7 SKIES UNKNOWN」と「TOP GUN: Maverick」に学ぶ、ユーザーファーストなコラボレーション手法**
 
 **UXデザイナー [池原 健治](https://twitter.com/kenji_clown5)**（IKEHARA Kenji）
 
-スケボーゲームの歴史は20年以上前からと古く、様々な名作を生み出しました。このセッションでは、その中からいくつかご紹介しつつ、難易度の高いストリートスポーツとしてのスケボーを、いかにしてゲームとして再現しているのか？フィジカルとバーチャルを違和感なくつなぐ独特のUXについて説明したいと思います。
+フライトシューティングの人気シリーズ「ACE COMBAT 7: SKIES UNKNOWN」と、2022年を代表する大ヒット映画になった「TOPGUN: Maverick」。その相性抜群なコラボレーションコンテンツをプレイして感じた、Web制作における技術的・機能的だけではない、ユーザーファーストなコラボレーションに関する学びをご紹介します。  
+（あくまで個人の感想です）
 
 紹介タイトル：  
-『[トニー・ホークプロスケーターシリーズ](https://www.tonyhawkthegame.com/content/atvi/tony-hawk/alcatraz/web/ja/home.html)』PlayStation、Nintendo Switch、他  
-『[Skateシリーズ](https://www.ea.com/ja-jp/games/skate/skate-3)』PlayStation、Xbox、他  
-『[OlliOlliシリーズ](https://store.privatedivision.com/ja/game/olliolli-world)』PlayStation、Xbox、他
+『[ACE COMBAT 7: SKIES UNKNOWN](https://ace7.acecombat.jp/)』PlayStation
 
 ### **おじさん目線で見るFPSゲーム**
 
@@ -103,11 +87,15 @@ subscription: https://dist.connpass.com/event/252120/
 『[Cod Warzone](https://www.callofduty.com/ja/warzone)』PlayStation、Xbox、他  
 『[TITANFALL 2](https://www.ea.com/ja-jp/games/titanfall/titanfall-2)』PlayStation、Xbox、他
 
-### **検討中**
+### **言語に頼らない世界〜謎言語とダイエジェティックの話〜**
 
-**サーフィス株式会社 代表 UIデザイナー [喜納 彬光](https://twitter.com/KinoAkmt)**（KINO Akimitsu）
+**サーフィス株式会社 UIデザイナー [喜納 彬光](https://twitter.com/KinoAkmt)**（KINO Akimitsu）
 
-概要　検討中
+STRAYには英語とは違う謎言語が度々登場します。私はそれを探るうちに謎言語が持つ魅力に気づくことができました。
+自分達とは異なる世界・文化を体験するための入り口となる謎言語と、ゲーム内世界と外を切り分けるダイエジェティックという考え方について紹介したいと思います。
+
+紹介タイトル：  
+『[STRAY](https://www.stray.game/)』PlayStation、PC
 
 ## 参加費
 
@@ -123,13 +111,12 @@ subscription: https://dist.connpass.com/event/252120/
 - スタッフ枠は、通常参加の方はお使いいただけません。スタッフとして参加希望の方は、[公式サイト](https://dist.tokyo/)のお問い合わせフォームよりお問い合わせください。
 
 ## 会場
-[中野セントラルパーク カンファレンス](http://www.nakano-centralpark.jp/conference/) **B1F ホール**（[アクセスマップ](http://www.nakano-centralpark.jp/conference/access)）
+[中野サンプラザ](https://www.sunplaza.jp/) **7F 研修室10**（[アクセスマップ](https://www.sunplaza.jp/access/）
 
-- JR中野駅 北口改札から徒歩5分
-- [詳しい道順](https://448.jp/map/map.jpg)をご参考ください
+- JR中野駅 北口改札から徒歩1分
 
 ## 新型コロナウイルスへの対応について
-- [東京都のガイドライン](https://www.bousai.metro.tokyo.lg.jp/1009757/1021409.html)に沿って感染防止策を行います。
+- [東京都のガイドライン](https://www.bousai.metro.tokyo.lg.jp/1009757/1021587.html)に沿って感染防止策を行います。
 - 参加時は**マスク着用、受付での手指消毒・検温が必須**となります。
 - 司会、スピーカーは適切な距離を取った上で登壇時のみマスクを外します。
 - 明らかな発熱、体調不良が見受けられた場合、参加をお断りすることもありますのであらかじめご了承ください。
@@ -157,8 +144,7 @@ subscription: https://dist.connpass.com/event/252120/
 
 | 更新日時   | 内容 |
 |:-----------|:-----|
-| 7/19 16:32 | セッション「エルデンリングに学ぶ、道に迷わないUIと世界観」、「壺男で考えるクリエイティブ」、「ヘッドショットの気持ち良さを考える〜フィードバックとUX〜」を追加しました。 |
-| 7/4 12:57 | イベントページを公開しました。 |
+| 8/23 11:15 | イベントページを公開しました。 |
 
 ## スポンサー
 DISTは、以下の[スポンサーにご協賛](https://esa-pages.io/p/sharing/2767/posts/86/73671e79fd847f58454b.html)いただいております。
